@@ -1,4 +1,4 @@
 Things to drink:
-- [] Water
+- [ ] Water
 - [x] Coffee
-- [] Tea
+- [ ] Tea
